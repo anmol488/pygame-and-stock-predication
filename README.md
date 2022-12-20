@@ -1,0 +1,1 @@
+# All the code for my Pygame projects & tinkering with stock market analysis and prediction using Python and Jupyter Notebooks. Some libraries might be outdated as they keep changing every week. If you want to run them, make sure to download the latest version of Python, + check the versions of all libraries used ine ach notebook to know which one to upgrade or downgrade.
